@@ -865,5 +865,5 @@ export default function ModernPortfolio() {
         }
       `}</style>
     </div>
-  );
+  ) ;
 }
